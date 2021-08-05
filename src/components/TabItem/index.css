@@ -1,0 +1,14 @@
+.list-container {
+  margin-right: 15px;
+}
+.button {
+  border-width: 0px;
+  color: #1e293b;
+  cursor: pointer;
+  background-color: transparent;
+  font-size: 20px;
+}
+.active-tab-btn {
+  border-bottom: 2px solid ##2563eb;
+  color: #2563eb;
+}

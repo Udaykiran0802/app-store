@@ -1,0 +1,21 @@
+.each-app {
+  min-height: 190px;
+  min-width: 200px;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 8px;
+  background-color: #ffffff;
+  margin: 5px;
+}
+.image-size {
+  min-height: 52px;
+  min-width: 62px;
+}
+.app-name {
+  color: #1e293b;
+  font-family: 'Bree Serif';
+  font-size: 16px;
+}
